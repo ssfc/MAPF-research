@@ -1,3 +1,3 @@
 # MAPF Research
 
-MAPF常见的研究方向
+MAPF推荐的研究方向
